@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @maverickIT
-- 👀 I’m interested in ...
-
-
-<!---
-colgansoftware/colgansoftware is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Welcome to Colgan/Maverick Software - the home for all things Maverick
+<br/>
+<hr>
+<br/>
+Only those who I give permission to will have access to see things.
