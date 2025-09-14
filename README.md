@@ -1,6 +1,6 @@
 # 👋 Welcome to Maverick Solutions (A "Dan Colgan" production)
 
-Hi, I’m **Dan Colgan** – the developer behind **Maverick Solutions**. With 15+ years as a Senior .NET Applications Developer, I specialize in building robust, scalable systems that bring together the best of modern software engineering practices.
+Hi, I’m **Dan Colgan** – the developer behind **Maverick Solutions**. With 15+ years as a Senior .NET Applications Developer, I specialize in building robust, scalable systems that bring together the best of modern software engineering practices.  I've had the pleasure of working with some of the best and widest ranging developers and have become proficient in a wide range of areas myself.  Where I don't have hands on experience; my ability to adapt and learn quickly eliminates any gaps.
 
 ---
 
