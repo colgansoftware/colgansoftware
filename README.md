@@ -20,7 +20,8 @@ Hi, I’m **Dan Colgan** – the developer behind **Maverick Solutions**. With 1
 
 ### [CLI-Tastic](https://github.com/colgansoftware/ClIMax_2025)
 > **CLI-Tastic bridges the gap between command-line power and GUI simplicity, designed around SOLID & CLEAN principles.**
-
+- Includes updates to Program.cs which directs the .NET pipeline to dbContexts
+- Automatically (on your direction) applies NuGet packages to your projects
 - Intuitive interface for advanced CLI workflows
 - Emphasizes maintainability, scalability, and extensibility
 - Built with .NET Core, modern JS frameworks & Azure Cloud integration
