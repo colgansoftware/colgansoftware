@@ -30,7 +30,6 @@ Hi, I’m **Dan Colgan** – the developer behind **Maverick Solutions**. With 1
 ## 📂 Featured Repositories
 
 - [ClIMax_2025](https://github.com/colgansoftware/ClIMax_2025) — Next-gen CLI tool (GUI-driven)
-- [CLI-Max](https://github.com/colgansoftware/CLI-Max) — Powerful CLI utilities for .NET environments
 - [Voluntier_New](https://github.com/colgansoftware/Voluntier_New) — Volunteer management system, cloud-enabled
 - [MailMaverick](https://github.com/colgansoftware/MailMaverick) — Smart email automation for business
 
