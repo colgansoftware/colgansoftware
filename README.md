@@ -1,6 +1,6 @@
 # 👋 Welcome to Maverick Solutions (A "Dan Colgan" production)
 
-Hi, I’m **Dan Colgan** – the developer behind **Maverick Solutions**. With 15+ years as a Senior .NET Applications Developer, I specialize in building robust, scalable systems that bring together the best of modern software engineering practices.  I've had the pleasure of working with some of the best and widest ranging developers and have become proficient in a wide range of areas myself.  Where I don't have hands on experience; my ability to adapt and learn quickly eliminates any gaps.
+Hi, I’m **Dan Colgan** – the developer behind **Maverick Solutions**. With 15+ years as a Senior .NET Applications Developer, I specialize in building robust, scalable systems that bring together the best of modern software engineering practices. I have begin practicing almost exclusively the CLEAN/SOLID design principle(s).  I work primarily with business information data (invoicing, order processing, communications).  I am looking for a position with a solid company that values the experience and understands the wealth of information that I have cannot generally be regurgitated in a single sitting and I do have to look things up now and then to confirm syntax.  If you're looking for someone with an idolic memory; keep looking LOL but if you need a great developer who knows the theory and can put it into practice then I'm your man.
 
 ---
 
@@ -8,7 +8,7 @@ Hi, I’m **Dan Colgan** – the developer behind **Maverick Solutions**. With 1
 
 - 🧑‍💻 **Alias:** Maverick Solutions | colgansoftware
 - 💼 **Profession:** Senior .NET Applications Developer
-- 🕰️ **Experience:** 15+ years of C# and ASP.NET (Framework & Core)
+- 🕰️ **Experience:** 15+ years of C# and ASP.NET (Framework & Core although it's all .NET now)
 - 🛠️ **Cloud Proficiency:** Azure Function Apps, Logic Apps, Service Bus, Storage, Authentication & Authorization
 - 🏗️ **Frontend:** Knockout.js, Vue.js, JavaScript, HTML/CSS
 - 🖥️ **Backend:** C# .NET, VB.NET, ASP.NET
