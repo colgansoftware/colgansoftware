@@ -8,7 +8,7 @@ Hi, I’m **Dan Colgan** – the developer behind **Colgan Software Solutions**.
 
 - 🧑‍💻 **Alias:** "Maverick" | colgansoftware
 - 💼 **Profession:** Senior .NET Applications Developer
-- 🕰️ **Experience:** 15+ years of C# and ASP.NET (Framework & Core although it's all .NET now)
+- 🕰️ **Experience:** 15+ years of C# and ASP.NET (Framework & Core although it's all .NET now) + 10 years prior in VB.NET
 - 🛠️ **Cloud Proficiency:** Azure Function Apps, Logic Apps, Service Bus, Storage, Authentication & Authorization
 - 🏗️ **Frontend:** Knockout.js, Vue.js, JavaScript, HTML/CSS
 - 🖥️ **Backend:** C# .NET, VB.NET, ASP.NET
