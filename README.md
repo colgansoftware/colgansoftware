@@ -18,9 +18,9 @@ Hi, I’m **Dan Colgan** – the developer behind **Colgan Software Solutions**.
 
 ## 🌟 Highlight Project
 
-### CLI-Max 2025(https://github.com/colgansoftware/ClIMax_2025)
-> **CLI-Max 2025 bridges the gap between command-line power and GUI simplicity, designed around SOLID & CLEAN principles.**
-- Includes updates to Program.cs which directs the .NET pipeline to dbContexts and normally hand required dependency designations
+### VSClimax_2026(https://github.com/colgansoftware/VSClimax_2026)
+> **CVSClimax_2026 bridges the gap between command-line power and GUI simplicity, designed around SOLID & CLEAN principles.**
+- Soon will include updates to Program.cs which directs the .NET pipeline to dbContexts and normally hand required dependency designations
 - Automatically (on your direction) applies NuGet packages to your projects
 - Intuitive interface for advanced CLI workflows
 - Emphasizes maintainability, scalability, and extensibility
