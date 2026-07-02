@@ -28,7 +28,7 @@ Hi, I’m **Dan Colgan** – the developer behind **Maverick Software Solutions*
 
 ## 🚀 What is CLIMax 2026?
 
-**CLIMax 2026** is a powerful Visual Studio solution wizard that automates the creation of enterprise-grade .NET applications. From simple console apps to complex Clean Architecture solutions with full authentication and database integration—VSClimax does it all in minutes, not hours.
+**CLIMax 2026** is a powerful dotnet solution wizard that automates the creation of enterprise-grade .NET applications. From simple console apps to complex Clean Architecture solutions with full authentication and database integration—CLIMax 2026 does it all in minutes, not hours.
 
 ---
 
